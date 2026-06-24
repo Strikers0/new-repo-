@@ -1,0 +1,9 @@
+[1mdiff --git a/asda b/asda[m
+[1mindex d30a80b..ba2cf2e 100644[m
+[1m--- a/asda[m
+[1m+++ b/asda[m
+[36m@@ -1,2 +1 @@[m
+[31m-ndfsfs[m
+[31m-hello this is on new branch[m
+[32m+[m[32mndfsfs[m
+\ No newline at end of file[m
